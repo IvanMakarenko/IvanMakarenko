@@ -5,9 +5,11 @@ My name is Makarenko Ivan and I'm a full-stack web developer. I'm from Ukraine, 
 
 ### 🔧 Technologies & Tools
 
+![](https://img.shields.io/badge/Framwork-Django-informational?style=flat-square&logo=django&logoColor=white&color=5194f0)
+![](https://img.shields.io/badge/Framwork-React-informational?style=flat-square&logo=react&logoColor=white&color=5194f0)
 ![](https://img.shields.io/badge/Framework-Yii2-informational?style=flat-square&logo=Yii2&logoColor=white&color=5194f0)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat-square&logo=PHP&logoColor=white&color=5194f0)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=5194f0)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat-square&logo=typescript&logoColor=white&color=5194f0)
 ![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=5194f0)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=5194f0&bgcolor=110d17)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=white&color=5194f0&bgcolor=110d17)
