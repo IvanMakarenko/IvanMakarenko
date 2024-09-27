@@ -33,7 +33,7 @@ I'm always excited about opportunities that allow me to focus on the bigger pict
 ![](https://img.shields.io/badge/RabbitMQ-informational?style=flat-square&logo=rabbitmq&color=4A4A55)
 ![](https://img.shields.io/badge/Redis-informational?style=flat-square&logo=redis&color=4A4A55)
 
-![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat-square&logo=visual-studio-code&color=5194f0)
+![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat-square&logo=visualstudiocode&color=5194f0)
 ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat-square&logo=pycharm&color=5194f0)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&color=5194f0&bgcolor=110d17)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&color=5194f0&bgcolor=110d17)
